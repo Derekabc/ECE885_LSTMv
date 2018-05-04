@@ -4,7 +4,7 @@ Created on Fri Nov 18 09:01:02 2016
 ECE802-608 Final Project: Modification of classic LSTM
 Case 1): no input signals, keep bias and hidden units
 
-@author: Yuzhen Lu
+
 """
 
 # work directory
